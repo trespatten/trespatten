@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trespatten
+- 👀 I’m interested in Data analytics and visualizations
+- 🌱 I’m currently learning SQL, Python and Tableau
+- 💞️ I’m looking to collaborate on beginer data analytics projects
+- 📫 How to reach me ...
